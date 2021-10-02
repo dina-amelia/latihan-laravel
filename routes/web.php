@@ -19,7 +19,7 @@ Route::get('/', function () {
 
 Route::get('halo' , function (){
     //me-return string
-    return "Halo, selamat datang di tutorial Laravel ";
+    return "Halo, selamat datang di situs web kami kelompok 3 ";
 });
 
 Route::get('blog' , function (){

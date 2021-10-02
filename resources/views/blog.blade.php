@@ -7,6 +7,6 @@
     <title>belajar Route dan View</title>
 </head>
 <body>
-    <h1>Halo, ini adalah tampilan welcome yang sudah di ubah </h1>
+    <h3>Hallo, ini adalah tampilan welcome yang sudah di ubah </h3>
 </body>
 </html>
